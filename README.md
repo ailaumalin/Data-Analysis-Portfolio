@@ -7,4 +7,6 @@ In the duration of my training, I've worked on a few datasets and I've completed
 
 If you'd like to know more of my professional background, please view my CV here: https://drive.google.com/file/d/1-ZW-5UJoUqNI1D1s2ouYerYj1b2e-IXN/view?usp=sharing
 
-### Table of Contents
+### Projects
+    
+  
