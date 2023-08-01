@@ -8,6 +8,6 @@ In the duration of my training, I've worked on a few datasets and I've completed
 If you'd like to know more about my professional background, please view my CV [here](https://github.com/ailaumalin/Data-Analysis-Portfolio/blob/main/Jonnaila%20Marie%20Umalin.pdf).
 
 ### Certifications
-
+    - Excel and SQL Training
     
   
