@@ -20,5 +20,8 @@ If you'd like to know more about my professional background, please view my CV [
 Here is a list of projects that I've worked on - this includes a short description of each project or task and the data analysis tools used.
 
 - [PopCart Campaign Analysis](https://github.com/ailaumalin/Data-Analysis-Projects/blob/main/PopCart%20Campaign%20Analysis.md)
+
+PopCart is an e-commerce app that has taken the Philippines by storm. PopCart would like to find out the effectiveness of its marketing campaigns in driving clicks that generate sales. 
+  
 - Amazon Data
 - Financial Services
