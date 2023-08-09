@@ -11,7 +11,7 @@ If you'd like to know more about my professional background, please view my CV [
 - About
 - Certifications
 - Projects
-- Contact
+- Contact Information
 
 ### Certifications
 - [Excel and SQL Training from Refocus](https://github.com/ailaumalin/Data-Analysis-Portfolio/blob/8fcb4f250de2fefef4dfe1fbf3f9eca1460319ae/(1)%20RefocusCompletionCertificate_Aila%20%20Umalin_99503034.pdf)
@@ -23,5 +23,9 @@ Here is a list of projects that I've worked on - this includes a short descripti
 
 - [PopCart Campaign Analysis](https://github.com/ailaumalin/Data-Analysis-Projects/blob/main/PopCart%20Campaign%20Analysis.md) | PopCart is an e-commerce app that has taken the Philippines by storm. PopCart would like to find out the effectiveness of its marketing campaigns in driving clicks that generate sales. 
   
-- Amazon Data
-- Financial Services
+- [Financing Data Task](https://github.com/ailaumalin/Data-Analysis-Projects/blob/main/Financing%20Data.md)
+
+### Contact Information
+If you'd like to know more about me or the projects/tasks that I handled, please connect with me through the following channels:
+- Email: umalin.jonnailamarie.1213@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jonnailamarieumalin/
